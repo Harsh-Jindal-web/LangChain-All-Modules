@@ -20,7 +20,7 @@ This repository serves as a central hub for all my LangChain learning repositori
 | 🧠 Vector Store | Embed, store, and retrieve using vector stores | [Langchain-Vector-Store](https://github.com/Harsh-Jindal-web/Langchain-Vector-Store) |
 | 📚 Retrievers | Retrieve context from vector stores and memory | [Langchain-Retrievers](https://github.com/Harsh-Jindal-web/Langchain-Retrievers) |
 | 🔧 Tools & Tool Calling | Learn how to build and call tools in LangChain using LLMs | [Langchain-Tools-and-Tool-Calling](https://github.com/Harsh-Jindal-web/Langchain-Tools-and-Tool-Calling) |
-
+| 📄 AI Agent | Building End-to-End AI Agent in LangChain | [Langchain-AI-Agent](https://github.com/Harsh-Jindal-web/Langchain-AI-Agent) |
 ---
 
 ## 📌 How to Use
